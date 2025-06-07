@@ -43,15 +43,20 @@ Insert your game screenshots below by replacing the image URLs inside the parent
 ### Example
 
 ![Game 1 Screenshot](https://files.catbox.moe/8qth2d.png))
-_Game 1: [Name/Description]_
+the homepage 🏠
 
-![Game 2 Screenshot](https://your-image-url.com/game2.png)
-_Game 2: [Name/Description]_
+![Game 2 Screenshot](https://files.catbox.moe/j25mc1.png))
+the games page 🎮
 
-![Game 3 Screenshot](https://your-image-url.com/game3.png)
-_Game 3: [Name/Description]_
+![Game 3 Screenshot](https://files.catbox.moe/tiz94u.png))
+the apps page 🛠️
 
-(Add more as needed.)
+![Game 4 Screenshot](https://files.catbox.moe/7ym8uv.png))
+the movies page 🛠️
+
+![Game 4 Screenshot]([https://files.catbox.moe/7ym8uv.png](https://files.catbox.moe/o8709s.png)))
+the settings page 🛠️
+
 
 ---
 
